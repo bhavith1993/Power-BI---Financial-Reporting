@@ -98,13 +98,7 @@ There are also supporting mapping/template tables used to drive statement layout
     └── Model Diagram.png
 ```
 
----
-
-## Notes (keep this honest)
-- If you share the PBIX publicly, assume anyone can inspect measures, model, and any cached data.
-- If you want maximum safety, share a **PBIT** instead and include a small sample dataset (CSV) or a data generator script.
-
----
+-------
 
 ## Contact
 If you’re reviewing this and want the PBIX/PBIT or a quick walkthrough, reach out via my portfolio / LinkedIn.
